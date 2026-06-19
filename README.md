@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkiid22&label=Profile%20views&color=0e75b6&style=flat" alt="venkiid22 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=venkateshN&label=Profile%20views&color=0e75b6&style=flat" alt="venkiid22 profile views" />
 </p>
 
 <h1 align="center">
-  Hi there, I'm Venkatesh Nagelli
+  Hi there, I'm Venkatesh 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="35" alt="waving hand" />
 </h1>
 
