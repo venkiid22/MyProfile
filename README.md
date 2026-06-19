@@ -94,7 +94,7 @@ I'm a **DevOps Engineer** with over **6 years** of hands-on experience across **
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/venkateshnagelli200" target="_blank">
+  <a href="https://www.linkedin.com/in/venkateshd022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -125,7 +125,7 @@ I'm a **DevOps Engineer** with over **6 years** of hands-on experience across **
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/venkateshnagelli200" target="_blank">
+  <a href="https://www.linkedin.com/in/venkateshd022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
